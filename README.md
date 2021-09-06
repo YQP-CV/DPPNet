@@ -13,3 +13,15 @@ In order to facilitate readers and researchers to more convenient access to rele
 [8.PICANet](https://github.com/Ugness/PiCANet-Implementation)<br>
 [9.PFPNet](https://github.com/Stick-To/PFPNet-tensorflow)<br>
 [10.R3Net](https://github.com/zijundeng/R3Net)<br>
+#Required libraries
+Python 3.6<br>
+numpy 1.15.2<br>
+scikit-image 0.14.0<br>
+PIL 5.2.0<br><br><br>
+PyTorch 0.4.0<br><br>
+torchvision 0.2.1<br>
+glob<br>
+#Architecture
+#Quantitative Comparison
+#Qualitative Comparison
+#Datasets
