@@ -3,7 +3,7 @@ This repository is about our proposed paper for high-resolution salient object d
 Due to the patent application of paper design, it is not convenient to submit the code at this stage. After everything is processed, we will upload the code here for exchange and learning.
 # Links to all comparison algorithms in the article
 In order to facilitate readers and researchers to more convenient access to relevant information, such as relevant paper URL links, code Github link. We put the link below to learn more. Almost all of the predictions compared in the article can be found in the links.
-[1.AMU](https://arxiv.org/abs/1708.02001)
+[1.AMU](https://arxiv.org/abs/1708.02001)<br>
 [2.DSS](https://github.com/Joker316701882/Salient-Object-Detection)
 [3.NLDF](https://github.com/AceCoooool/NLDF-pytorch)
 [4.POOLNet](https://github.com/backseason/PoolNet)
