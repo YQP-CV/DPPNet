@@ -17,10 +17,10 @@ In order to facilitate readers and researchers to more convenient access to rele
 Python 3.6<br>
 numpy 1.15.2<br>
 scikit-image 0.14.0<br>
-PIL 5.2.0<br><br>
+PIL 5.2.0<br>
 PyTorch 0.4.0<br>
 torchvision 0.2.1<br>
-glob<br>
+glob
 # Architecture
 # Quantitative Comparison
 # Qualitative Comparison
