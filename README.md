@@ -25,7 +25,8 @@ To Do！
 # Architecture
 ![Architecture](https://github.com/YQP-CV/DPPNet/blob/main/figures/Architecture.png)
 # Quantitative Comparison
-![Quantitative Comparison]
+![Quantitative Comparison](https://github.com/YQP-CV/DPPNet/blob/main/figures/Quantitative%20evaluation.jpg)
 # Qualitative Comparison
-![Qualitative Comparison]
+![Qualitative Comparison](https://github.com/YQP-CV/DPPNet/blob/main/figures/Quantitative%20Evaluation.png)
 # Datasets
+We also provide the predicted saliency maps (Baidu) for datasets HRSOD, DAVIS-S, ECSSD, DUT-OMRON, HKU-IS and DUTS-TE.
