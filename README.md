@@ -23,7 +23,9 @@ torchvision 0.2.1<br>
 # Usage
 To Do！
 # Architecture
-![Architecture]()
+![Architecture](https://github.com/YQP-CV/DPPNet/blob/main/figures/Architecture.png)
 # Quantitative Comparison
+![Quantitative Comparison]
 # Qualitative Comparison
+![Qualitative Comparison]
 # Datasets
