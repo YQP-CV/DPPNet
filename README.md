@@ -29,4 +29,7 @@ To Do！
 # Qualitative Comparison
 ![Qualitative Comparison](https://github.com/YQP-CV/DPPNet/blob/main/figures/Quantitative%20Evaluation.png)
 # Datasets
+Benchmark Dataset (DUT, DUTS, ECSSD, HKU-IS, PASCAL-S, SOD, THUR):<br>
+https://drive.google.com/open?id=11rPRBzqxdRz0zHYax995uvzQsZmTR4A7<br> 
+The HRSOD and DAVIS-S daasets can be found in literature [HRSOD](https://github.com/yi94code/HRSOD)<br>
 We also provide the predicted saliency maps (Baidu) for datasets HRSOD, DAVIS-S, ECSSD, DUT-OMRON, HKU-IS and DUTS-TE.
